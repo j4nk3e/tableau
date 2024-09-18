@@ -42,7 +42,7 @@ defmodule Tableau.MixProject do
       {:plug_static_index_html, "~> 1.0"},
       {:schematic, "~> 0.3.1"},
       {:tz, "~> 0.26.2"},
-      {:web_dev_utils, "~> 0.1"},
+      {:web_dev_utils, github: "j4nk3e/web_dev_utils"},
       {:websock_adapter, "~> 0.5"},
       {:xml_builder, "~> 2.1"},
       {:yaml_elixir, "~> 2.9"},
